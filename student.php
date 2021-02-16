@@ -8,7 +8,10 @@
 </head>
 <body>
     
-
+<div class="container">
+    <div class="row">
+        <div class="col col-12 col-sm-8">
+            
     <table class="table">
 
         <tr>
@@ -33,6 +36,10 @@
         </tr>
 
     </table>
+        </div>
+        <div class="col col-12 col-sm-4"></div>
+    </div>
+</div>
 
 </body>
 </html>
